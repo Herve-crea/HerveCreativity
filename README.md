@@ -1,4 +1,4 @@
-Welcome to my site web
+INFORMATIQUE - GRAPHISME - FORMATION PROFESSIONNELLE
 <html lang="fr">
 <head>
   <meta charset="UTF-8">
@@ -6,7 +6,7 @@ Welcome to my site web
   <title>Site web personnel – Hervé</title>
   <style>
     body {
-      font-family: Arial, sans-serif;
+      font-family: Times New Roman, sans-serif;
       margin: 0;
       background: #f4f4f9;
       color: #333;
